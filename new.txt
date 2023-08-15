@@ -1,0 +1,4 @@
+name: Fedorenko Ivan Vladimirovich
+age: 36
+number of pets: 0
+salary expectations: 995$
